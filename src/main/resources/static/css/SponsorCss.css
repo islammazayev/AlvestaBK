@@ -1,0 +1,84 @@
+.containerSponsor {
+    text-align: center;
+
+}
+
+img {
+    vertical-align: middle;
+    width: inherit;
+    image-rendering: auto;
+    image-rendering: crisp-edges;
+    image-rendering: pixelated;
+    -ms-interpolation-mode: bicubic;
+}
+
+p {
+    text-align: center;
+    padding-top: 25px;
+}
+
+.containerSponsor1 {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-left: 20px;
+}
+
+.containerSponsor2 {
+    /* padding-top: 30px; */
+    padding-bottom: 30px;
+    margin-left: 20px;
+
+}
+
+.containerSponsor3 {
+    /* padding-top: 30px; */
+    padding-bottom: 30px;
+    margin-left: 20px;
+
+}
+
+body {
+    background-color: silver;
+}
+
+
+.containerClubmärk h1 {
+    text-align: center;
+}
+
+.containerClubmärk {
+    margin-bottom: 20px;
+}
+
+.navbar-inverse .navbar-brand {
+    color: maroon;
+}
+
+.navbar-brand {
+    font-size: 50px;
+    line-height: 20px;
+    font-family: fantasy;
+}
+
+.navbar-nav {
+    font-size: 20px;
+}
+
+.container-fluid {
+    margin-top: 12px;
+}
+
+.navbar {
+    position: relative;
+    min-height: 86px;
+    margin-bottom: 20px;
+    border: 1px solid transparent;
+}
+
+.containerNav {
+
+    position: sticky;
+    top: 0;
+    overflow: hidden;
+    z-index: 99999;
+}

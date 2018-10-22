@@ -1,0 +1,78 @@
+body {
+    background-color: silver;
+}
+
+
+.containerClubmärk h1 {
+    text-align: center;
+}
+
+.containerClubmärk {
+    margin-bottom: 20px;
+}
+
+.navbar-inverse .navbar-brand {
+    color: maroon;
+}
+
+.navbar-brand {
+    font-size: 50px;
+    line-height: 20px;
+    font-family: fantasy;
+}
+
+.navbar-nav {
+    font-size: 20px;
+}
+
+.container-fluid {
+    margin-top: 12px;
+}
+
+.navbar {
+    position: relative;
+    min-height: 86px;
+    margin-bottom: 20px;
+    border: 1px solid transparent;
+}
+
+.containerNav {
+
+    position: sticky;
+    top: 0;
+    overflow: hidden;
+    z-index: 99999;
+}
+.containerSMS h1{
+    font-size: 45px;
+    font-family: cursive;
+}
+
+.containerSponsorList h1{
+    text-align: center;
+    font-size: 50px;
+    font-style: italic;
+}
+.panel-defaultKont{
+    font-size: 25px;
+    text-align: center;
+}
+.panel-defaultSms{
+    font-size: 15px;
+    padding-left: 15px;
+}
+.panel-defaultSms h1{
+    text-align: center;
+    font-size: 45px;
+    font-family: cursive;
+}
+.panel-defaultSpon{
+    padding-left: 20px;
+}
+.containerNyhet{
+    margin-top: 25px;
+}
+.containerNyhet h1{
+    font-size: 40px;
+    font-family: cursive;
+}

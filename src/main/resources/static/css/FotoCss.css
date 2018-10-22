@@ -1,0 +1,52 @@
+.komentar {
+    text-align: center;
+}
+
+.containerFoto {
+    text-align: center;
+}
+body {
+    background-color: silver;
+}
+
+
+.containerClubmärk h1 {
+    text-align: center;
+}
+
+.containerClubmärk {
+    margin-bottom: 20px;
+}
+
+.navbar-inverse .navbar-brand {
+    color: maroon;
+}
+
+.navbar-brand {
+    font-size: 50px;
+    line-height: 20px;
+    font-family: fantasy;
+}
+
+.navbar-nav {
+    font-size: 20px;
+}
+
+.container-fluid {
+    margin-top: 12px;
+}
+
+.navbar {
+    position: relative;
+    min-height: 86px;
+    margin-bottom: 20px;
+    border: 1px solid transparent;
+}
+
+.containerNav {
+
+    position: sticky;
+    top: 0;
+    overflow: hidden;
+    z-index: 99999;
+}
